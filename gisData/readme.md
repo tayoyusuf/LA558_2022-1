@@ -1,17 +1,16 @@
-**This is the GIS Data for the class.**
-Brief descriptions of the data and sources are as follows
+*LA 558 Course Data*
+Brief descriptions of the data and sources are as follows  
 
-Class
+***Class***
 
-City
+***City***
 
-County
+***County***
 
-Iowa
+***Iowa***
 
-National-Regional
+***National-Regional***
 
-World
-
-**NorthAmerica.shp**  derived from World_Continents.shp  
-World_Continents.shp ESRI ArcGIS Hub https://hub.arcgis.com/datasets/esri::world-continents/explore?  
+***World***
+- NorthAmerica.shp derived from World_Continents.shp  
+- World_Continents.shp ESRI ArcGIS Hub https://hub.arcgis.com/datasets/esri::world-continents/explore?  
