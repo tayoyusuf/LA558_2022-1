@@ -34,7 +34,7 @@ Anne Wurtenberger,Kenai Fjords,Fox River,Alaska,United States,June,59.917778,-14
 Anne Wurtenberger,Bonneville Salt Flats,West Wendover,Utah,United States,April,40.799722,-113.8
 Anne Wurtenberger,Antelope Canyon,Lechee,Arizona,United States,April,36.952766,-111.441268
 Anne Wurtenberger,Valley of Fire,Overton,Nevada,United States,April,36.456111,-114.533056
-Maryam Maddahzad,The Black Hills National Forest,Rapid City,South Dakota,United States,August,-42.716671,147.033325
+Maryam Maddahzad,The Black Hills National Forest,Rapid City,South Dakota,United States,August,43.8889257,-103.4793019
 Maryam Maddahzad,Aspen,Aspen,Coloroda,United States,January,39.190653,-106.819228
 Maryam Maddahzad,Glacier National Park,Crystal Point,Montana,United States,May,48.4999,-113.9872
 Maryam Maddahzad,Crater Lake,Crater Lake,Oregon,United States,May,42.944611,-122.109245
@@ -44,11 +44,11 @@ Asif Khan,Town of Breckenridge,Breckenridge,Colorado,United States,June,39.49961
 Asif Khan,Glacier National Park,Crystal Point, Montana,United States,May,48.696667,-113.718333
 Asif Khan,Miami beach,Miami,Florida,United States,November,25.813025,-80.134064
 Asif Khan,Great Salt Lake,Salt Lake City,Utah,United States,October,41.166667,-112.583333
-Mona Kazemian,Redwood National Park,Cresent City,California,United State,May,41.2132,124.0046
-Mona Kazemian,"Central Park, North Woods",New York,NY,United State,March,40.7978,37.9561
-Mona Kazemian,Grand Canyon,Flagstaff,Arizona,United State,September,36.0319,112.0719
-Mona Kazemian,Antelope Canyon,Page,Arizona,United State,May,36.8619,111.3743
-Mona Kazemian,Niagara Falls,Niagara Falls,NY,United State,June,43.0962,79.0377
+Mona Kazemian,Redwood National Park,Cresent City,California,United State,May,41.3,-124
+Mona Kazemian,"Central Park, North Woods",New York,NY,United State,March,40.797,-73.9577
+Mona Kazemian,Grand Canyon,Flagstaff,Arizona,United State,September,36.3,-112.6
+Mona Kazemian,Antelope Canyon,Page,Arizona,United State,May,36.952766,-111.441268
+Mona Kazemian,Niagara Falls,Niagara Falls,NY,United State,June,43.0799,-79.0747
 Yusus Tayo,McWay Falls,Big Sur,California,United State,June,36.157806,-121.672139
 Yusus Tayo,Hamilton Pool,Texas,Texas,United State,May,,
 Yusus Tayo,Moraine Lake,Canada,Canada,Canada,June,,
@@ -63,3 +63,8 @@ Oyeyemi Oyeleke,Crater Lake,Crater Lake,Oregon,United States,July,42.944611,-122
 Oyeyemi Oyeleke,McWay Falls,BigSur,California,United States,October,36.157806,-121.672139
 Oyeyemi Oyeleke,Miami beach,Miami,Florida,United States,June,25.813025,-80.134064
 Oyeyemi Oyeleke,Great Salt Lake,Salt Lake City,Utah,United States,February,41.166667,-112.583333
+Emily Huston,Crater Lake,Crater Lake,Oregon,United States,May,-64.733333,-122.1
+Emily Huston,Mendenhall Ice Caves,Juneau,Alaska,United States,December,58.495833,-134.532222
+Emily Huston,Virgin Islands National Park,Cruz Bay,St. John,US Virgin Islands,June,18.333333,-64.733333
+Emily Huston,Prince Edward Island National Park,Stanhope,Prince Edward Island,Canada,September,46.416667,-63.075
+Emily Huston,Sirmilik National Park,Pond Inlet,Nunavut,Canada,July,72.9906,-81.13732
