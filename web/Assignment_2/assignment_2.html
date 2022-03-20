@@ -1,0 +1,71 @@
+    title: {
+        text: 'Solar Employment Growth by Sector, 2015-2020'
+    },
+
+    subtitle: {
+        text: 'Source: thesolarfoundation.com'
+    },
+
+    yAxis: {
+        title: {
+            text: 'Home Status'
+        }
+    },
+
+    xAxis: {
+        accessibility: {
+            rangeDescription: 'Range: 2015 to 2020'
+        }
+    },
+
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'middle'
+    },
+
+    plotOptions: {
+        series: {
+            label: {
+                connectorAllowed: false
+            },
+            pointStart: 2015
+        }
+    },
+
+    series: [{
+                name: 'Home Owners in Amador',
+        data: [10577, 10778, 10921, 10798, 11165, 11396]
+    }, {
+            name: 'Home Renters in Amador',
+        data: [3348, 3470, 3264, 3292, 3429, 3448]
+    }, {
+        name: 'Home Owners in Butte',
+        data: [50031, 50051, 50844, 51358, 50331, 49887]
+    }, {
+        name: 'Home Renters in Butte',
+        data: [35287, 35454, 35323, 35439, 34989, 33992]
+    }, {
+        name: 'Home Owners in Caleveras',
+        data: [14266, 13643, 13931, 13526, 13173, 13492]
+    }, {
+        name: 'Home Renters in Caleveras',
+        data: [3794, 4070, 3881, 3891, 3769, 3466]
+    }],
+
+    responsive: {
+        rules: [{
+            condition: {
+                maxWidth: 500
+            },
+            chartOptions: {
+                legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                }
+            }
+        }]
+    }
+
+});
