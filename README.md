@@ -1,5 +1,35 @@
 # LA 558 Web Mapping and Data Visulizataion 
-This may page for Spring 2022 Landscape Architecture 558 course.
+Yusuf Tayo's site
   
-In this repo I will be uploading exercises and assignments  
-for submission.
+I am a graduate student of community and regional planning with professional graduate certificate in GIS
+FINAL PROJECT
+
+
+
+<h2>Abstract</h2>
+
+Social vulnerability exposes the less privileged social group to natural hazards, making them susceptible to undesirable physical and social wellbeing, including death, injury, and loss of livelihood. In hazardous events, whether a natural disaster like flooding, tornado, landslide, disease outbreak or anthropogenic event such as a harmful chemical spill, the effect varies among different socioeconomic groups. It is expedient for cities, communities, and policymakers to be prepared and proactive in response and plan, especially among the vulnerable social class. In this background, this study tends to examine the socioeconomic index of residence in Iowa.
+
+
+<h2>Assignment1</h2>
+
+https://tayoyusuf.github.io/LA558_2022_YUSUF/web/assignment1.html
+
+<h2>Assignment2</h2>
+
+https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment2b.html
+
+<h2>Assignment3</h2>
+
+https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment_3/assignment3.html
+
+<h2>Assignment4</h2>
+
+https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment4.html
+
+<h2>project</h2>
+
+https://tayoyusuf.github.io/LA558_2022_YUSUF/web/project.html
+
+
+
