@@ -2,7 +2,7 @@
 
  <header>
 <p>YUSUF TAYO FINAL PROJECT LAYOUT</p>
- </header>
+
 
 - <p><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/project.html"><h2>FINAL_PROJECT</h2></a>
  
@@ -18,6 +18,8 @@
  
 
 - <a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment4.html"><h2>Assignment_4</h2></a>
+ 
+  </header>
 </p>
   </article>
 </section>
