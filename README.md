@@ -1,31 +1,20 @@
 # LA 558 Web Mapping and Data Visulizataion 
 
-
-<!DOCTYPE html>
-<html lang="en">
 <head>
-<title>LA558_2022</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
   box-sizing: border-box;
 }
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
+.menu {
+  float: left;
+  width: 20%;
 }
-
-/* Style the header */
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
+.menuitem {
+  padding: 8px;
+  margin-top: 7px;
+  border-bottom: 1px solid #f1f1f1;
 }
-
-
 <h2>LA558_2022</h2>
 <p>YUSUF TAYO FINAL PROJECT LAYOUT</p>
 
