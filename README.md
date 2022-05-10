@@ -1,20 +1,6 @@
 # LA 558 Web Mapping and Data Visulizataion 
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-* {
-  box-sizing: border-box;
-}
-.menu {
-  float: left;
-  width: 20%;
-}
-.menuitem {
-  padding: 8px;
-  margin-top: 7px;
-  border-bottom: 1px solid #f1f1f1;
-}
+
 <h2>LA558_2022</h2>
 <p>YUSUF TAYO FINAL PROJECT LAYOUT</p>
 
