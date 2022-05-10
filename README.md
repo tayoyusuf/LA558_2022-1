@@ -1,9 +1,8 @@
 # LA 558 Web Mapping and Data Visulizataion 
 <h2>LA558_2022</h2>
 <p>YUSUF TAYO FINAL PROJECT LAYOUT</p>
-<p>
-</p>
-<a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/project.html"><h2>FINAL_PROJECT</h2></a>
+
+ <p><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/project.html"><h2>Assignment_1</h2></a> 
 
  <p><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/assignment1.html"><h2>Assignment_1</h2></a>  
 
