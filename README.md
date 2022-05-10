@@ -5,6 +5,11 @@ In this repo I will be uploading exercises and assignments
 for submission.
 
 
+<h2>Abstract</h2>
+
+Social vulnerability exposes the less privileged social group to natural hazards, making them susceptible to undesirable physical and social wellbeing, including death, injury, and loss of livelihood. In hazardous events, whether a natural disaster like flooding, tornado, landslide, disease outbreak or anthropogenic event such as a harmful chemical spill, the effect varies among different socioeconomic groups. It is expedient for cities, communities, and policymakers to be prepared and proactive in response and plan, especially among the vulnerable social class. In this background, this study tends to examine the socioeconomic index of residence in Iowa.
+
+
 <h2>Assignment1</h2>
 
 https://tayoyusuf.github.io/LA558_2022_YUSUF/web/assignment1.html
