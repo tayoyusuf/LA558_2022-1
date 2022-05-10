@@ -1,6 +1,5 @@
 
 # LA 558 Web Mapping and Data Visulizataion
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -21,6 +20,4 @@
  
  - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment4.html"><h2>Assignment_4</a></h2>
  
-</body>
-</html>
 
