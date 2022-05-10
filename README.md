@@ -1,8 +1,4 @@
-# LA 558 Web Mapping and Data Visulizataion 
-
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+h1 {text-align: center;} # LA 558 Web Mapping and Data Visulizataion 
 
 
  <header>
