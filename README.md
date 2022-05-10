@@ -21,15 +21,6 @@
 
 - <a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment4.html"><h2>Assignment_4</h2></a>
  
-  </header>
-</p>
-  </article>
-</section>
-
-<footer>
-  <p>THANK YOU</p>
-</footer>
-
 </body>
 </html>
 
