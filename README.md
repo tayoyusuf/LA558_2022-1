@@ -1,4 +1,12 @@
-h1 {text-align: center;} # LA 558 Web Mapping and Data Visulizataion 
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+
+<h1># LA 558 Web Mapping and Data Visulizataion</h1> 
 
 
  <header>
