@@ -1,5 +1,8 @@
 
 # LA 558 Web Mapping and Data Visulizataion
+<!DOCTYPE html>
+<html>
+<body>
 
 
 <p>YUSUF TAYO FINAL PROJECT LAYOUT</p>
