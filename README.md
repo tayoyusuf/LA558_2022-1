@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
 
-<body>
- 
-<h1># LA 558 Web Mapping and Data Visulizataion</h1> 
+# LA 558 Web Mapping and Data Visulizataion
 
 
  <header>
