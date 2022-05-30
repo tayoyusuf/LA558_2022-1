@@ -31,3 +31,5 @@
  - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Tayo_0418.pdf">Agronomy Productivity Potential Model</a></h2>
  
   - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Tayo_0420.pdf">Change in Landuse</a></h2>
+ 
+ - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/552_ASS_2.pdf">Counties With High Level of Financial Need</a></h2>
