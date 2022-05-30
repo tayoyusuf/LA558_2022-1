@@ -20,7 +20,7 @@
  
  - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/Assignment4.html">Assignment_4</a></h2>
  
-- <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/552_ASS_4.pdf">1_Assignment</a></h2>
+- <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/552_ASS_4.pdf">Suitable Sites for Proposed Development</a></h2>
 
  - <h2><a href="https://tayoyusuf.github.io/LA558_2022_YUSUF/web/TAYO_0328.pdf">Potential Sites for Training Center</a></h2>
 
